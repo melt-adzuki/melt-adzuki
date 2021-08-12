@@ -4,7 +4,7 @@
 
 ## Links 💨
 <p align="center">
-    <a href="https://twitter.com/sig_azuki">
+    <a target="_blank" href="https://twitter.com/sig_azuki">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@sig_azuki&color=blue"/>
     </a>
 </p>
