@@ -1,32 +1,32 @@
 <div align="center">
     <h1>Hi, I'm azuki! ⪥</h1>
     <p>A magic that makes everything simple.</p>
-    <img src="./assets/banner.png">
+    <img alt="Banner" src="./assets/banner.png">
 </div>
 
 ## Links 💨
 <div align="center">
     <a target="_blank" href="https://twitter.com/sig_azuki">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@sig_azuki&color=blue"/>
+        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@sig_azuki&color=blue"/>
     </a>
 </div>
 
 ## Environment 💭
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=OS&message=Windows 10&color=blue"/>
-    <img src="https://img.shields.io/static/v1?label=Phone&message=Pixel 3a&color=yellow"/>
-    <img src="https://img.shields.io/static/v1?label=Clock&message=LaMetric Time&color=red"/>
-    <img src="https://img.shields.io/static/v1?label=Mouse&message=M590&color=lightgrey"/>
+    <img alt="Windows 10" src="https://img.shields.io/static/v1?label=OS&message=Windows 10&color=blue"/>
+    <img alt="Pixel 3a" src="https://img.shields.io/static/v1?label=Phone&message=Pixel 3a&color=yellow"/>
+    <img alt="LaMetric Time" src="https://img.shields.io/static/v1?label=Clock&message=LaMetric Time&color=red"/>
+    <img alt="M590" src="https://img.shields.io/static/v1?label=Mouse&message=M590&color=lightgrey"/>
 </div>
 
 ## Favorites 🤍
 <div align="center">
-    <img src="https://img.shields.io/badge/-Windows 8-orange?logo=windows&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-iOS-lightgrey?logo=apple&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-red?logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual Studio Code-blue?logo=visualstudiocode&logoColor=white"/>
+    <img alt="Windows 8" src="https://img.shields.io/badge/-Windows 8-orange?logo=windows&logoColor=white"/>
+    <img alt="iOS" src="https://img.shields.io/badge/-iOS-lightgrey?logo=apple&logoColor=white"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?logo=javascript&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-blue?logo=visualstudiocode&logoColor=white"/>
 </div>
 
 ## Skills ☕
