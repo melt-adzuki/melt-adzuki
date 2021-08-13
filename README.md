@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm azuki! ⪥</h1>
-<p align="center">A magic that makes everything simple.</p>
-<img src="./assets/banner.png">
+<div align="center">
+    <h1>Hi, I'm azuki! ⪥</h1>
+    <p>A magic that makes everything simple.</p>
+    <img src="./assets/banner.png">
+</div>
 
 ## Links 💨
 <div align="center">
