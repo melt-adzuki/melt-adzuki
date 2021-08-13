@@ -29,5 +29,20 @@
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?logo=visualstudiocode&logoColor=white"/>
 </div>
 
+## Skills ☕
+<div align="center">
+    <img width="48px" alt="Photoshop" src="./assets/adobephotoshop.svg"/>
+    <img width="48px" alt="Lightroom" src="./assets/adobelightroom.svg"/>
+    <img width="48px" alt="Illustrator" src="./assets/adobeillustrator.svg"/>
+    <img width="48px" alt="Premiere Pro"src="./assets/adobepremierepro.svg"/>
+    <img width="48px" alt="After Effects" src="./assets/adobeaftereffects.svg"/>
+    <img width="48px" alt="Audition" src="./assets/adobeaudition.svg"/>
+    <img width="48px" alt="HTML5" src="./assets/html5.svg"/>
+    <img width="48px" alt="CSS3" src="./assets/css3.svg"/>
+    <img width="48px" alt="Sass" src="./assets/sass.svg"/>
+    <img width="48px" alt="JavaScript" src="./assets/javascript.svg"/>
+    <img width="48px" alt="Node.js" src="./assets/nodedotjs.svg"/>
+</div>
+
 ## Stats 🤔
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hijiki02)
