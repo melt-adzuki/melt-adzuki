@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?label=Mouse&message=M590&color=lightgrey"/>
 </div>
 
-## Favorites ❤
+## Favorites 🤍
 <div align="center">
     <img src="https://img.shields.io/badge/-Windows 8-orange?logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/-iOS-lightgrey?logo=apple&logoColor=white"/>
