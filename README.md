@@ -30,7 +30,7 @@
 </div>
 
 ## Skills ☕
-<div align="center">
+<code>
     <img width="48px" alt="Photoshop" src="./assets/adobephotoshop.svg"/>
     <img width="48px" alt="Lightroom" src="./assets/adobelightroom.svg"/>
     <img width="48px" alt="Illustrator" src="./assets/adobeillustrator.svg"/>
@@ -46,7 +46,7 @@
     <img width="48px" alt="Vite" src="./assets/vite.svg"/>
     <img width="48px" alt="Vue.js" src="./assets/vuedotjs.svg"/>
     <img width="48px" alt="Nuxt.js" src="./assets/nuxtdotjs.svg"/>
-</div>
+</code>
 
 ## Stats 🤔
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hijiki02&count_private=true&show_icons=true&theme=graywhite)
