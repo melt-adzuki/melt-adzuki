@@ -40,8 +40,12 @@
     <img width="48px" alt="HTML5" src="./assets/html5.svg"/>
     <img width="48px" alt="CSS3" src="./assets/css3.svg"/>
     <img width="48px" alt="Sass" src="./assets/sass.svg"/>
+    <img width="48px" alt="Bootstrap" src="./assets/bootstrap.svg"/>
     <img width="48px" alt="JavaScript" src="./assets/javascript.svg"/>
     <img width="48px" alt="Node.js" src="./assets/nodedotjs.svg"/>
+    <img width="48px" alt="Vite" src="./assets/vite.svg"/>
+    <img width="48px" alt="Vue.js" src="./assets/vuedotjs.svg"/>
+    <img width="48px" alt="Nuxt.js" src="./assets/nuxtdotjs.svg"/>
 </div>
 
 ## Stats 🤔
