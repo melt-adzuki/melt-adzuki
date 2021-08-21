@@ -46,6 +46,7 @@
     <img width="48px" alt="Vite" src="./assets/vite.svg"/>
     <img width="48px" alt="Vue.js" src="./assets/vuedotjs.svg"/>
     <img width="48px" alt="Nuxt.js" src="./assets/nuxtdotjs.svg"/>
+    <p>The icons are from <a href="https://simpleicons.org">Simple Icons</a>.</p>
 </div>
 
 ## Stats 🤔
