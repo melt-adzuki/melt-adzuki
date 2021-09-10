@@ -6,8 +6,8 @@
 
 ## Links 💨
 <div align="center">
-    <a target="_blank" href="https://twitter.com/Fluidized_Azuki">
-        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@Fluidized_Azuki&color=blue"/>
+    <a target="_blank" href="https://twitter.com/melt_adzuki">
+        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@melt_adzuki&color=blue"/>
     </a>
 </div>
 
