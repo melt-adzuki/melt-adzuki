@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, I'm azuki! ⪥</h1>
+    <h1>Hi, I'm adzuki! ⪥</h1>
     <p>A magic that makes everything simple.</p>
     <img alt="Banner" src="./assets/banner.png">
 </div>
