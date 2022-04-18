@@ -13,10 +13,10 @@
 
 ## Environment 💭
 <div align="center">
-    <img alt="Windows 10" src="https://img.shields.io/static/v1?label=OS&message=Windows 10&color=blue"/>
+    <img alt="Windows 11" src="https://img.shields.io/static/v1?label=OS&message=Windows 11&color=blue"/>
     <img alt="Pixel 3a" src="https://img.shields.io/static/v1?label=Phone&message=Pixel 3a&color=yellow"/>
     <img alt="LaMetric Time" src="https://img.shields.io/static/v1?label=Clock&message=LaMetric Time&color=red"/>
-    <img alt="M590" src="https://img.shields.io/static/v1?label=Mouse&message=M590&color=lightgrey"/>
+    <img alt="M575" src="https://img.shields.io/static/v1?label=Mouse&message=M575&color=lightgrey"/>
 </div>
 
 ## Favorites 🤍
