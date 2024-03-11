@@ -11,6 +11,9 @@
     <a target="_blank" href="https://twitter.com/melt_adzuki">
         <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@melt_adzuki&color=blue"/>
     </a>
+    <a target="_blank" href="https://misskey.io/@melt_adzuki">
+        <img alt="Misskey.io" src="https://img.shields.io/static/v1?style=for-the-badge&logo=misskey&label=Misskey.io&message=@melt_adzuki&color=green"/>
+    </a>
 </div>
 
 ## Environment 💭
@@ -18,17 +21,14 @@
     <img alt="Windows 11" src="https://img.shields.io/static/v1?label=OS&message=Windows 11&color=blue"/>
     <img alt="iPhone XR" src="https://img.shields.io/static/v1?label=Phone&message=iPhone Xʀ&color=lightgray"/>
     <img alt="LaMetric Time" src="https://img.shields.io/static/v1?label=Clock&message=LaMetric Time&color=red"/>
-    <img alt="M575S" src="https://img.shields.io/static/v1?label=Mouse&message=M57S5&color=black"/>
+    <img alt="M575S" src="https://img.shields.io/static/v1?label=Mouse&message=M575S&color=black"/>
 </div>
 
 ## Favorites 🤍
 <div align="center">
-    <img alt="Windows 8" src="https://img.shields.io/badge/-Windows 8-orange?logo=windows&logoColor=white"/>
-    <img alt="iOS" src="https://img.shields.io/badge/-iOS-lightgrey?logo=apple&logoColor=white"/>
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-red?logo=rust&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-blue?logo=visualstudiocode&logoColor=white"/>
+    <img alt="Kotlin/Native" src="https://img.shields.io/badge/-Kotlin/Native-7f52ff?logo=kotlin&logoColor=white"/>
+    <img alt="Kotlin/JS" src="https://img.shields.io/badge/-Kotlin/JS-orange?logo=kotlin&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-purple?logo=c%23&logoColor=white"/>
 </div>
 
 ## Skills ☕
