@@ -14,7 +14,7 @@
 
 ## Environment 💭
 <div align="center">
-    <img alt="macOS" src="https://img.shields.io/static/v1?label=OS&message=macOS&color=blue"/>
+    <img alt="Laptop" src="https://img.shields.io/static/v1?label=Laptop&message=MacBook%20Pro%2014%E2%80%B3&color=blue"/>
     <img alt="iPhone 16 Pro" src="https://img.shields.io/static/v1?label=Phone&message=iPhone%2016%20Pro&color=lightgray"/>
     <img alt="LaMetric Time" src="https://img.shields.io/static/v1?label=Clock&message=LaMetric%20Time&color=red"/>
     <img alt="M575S" src="https://img.shields.io/static/v1?label=Mouse&message=M575S&color=black"/>
@@ -22,35 +22,8 @@
 
 ## Favorites 🤍
 <div align="center">
-    <img alt="Kotlin/Native" src="https://img.shields.io/badge/-Kotlin/Native-7f52ff?logo=kotlin&logoColor=white"/>
-    <img alt="Kotlin/JS" src="https://img.shields.io/badge/-Kotlin/JS-orange?logo=kotlin&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/-C%23-purple?logo=c%23&logoColor=white"/>
-</div>
-
-## Skills ☕
-<div align="center">
-    <h3>Adobe</h3>
-    <img width="48px" alt="Photoshop" src="./assets/adobephotoshop.svg"/>
-    <img width="48px" alt="Lightroom" src="./assets/adobelightroom.svg"/>
-    <img width="48px" alt="Illustrator" src="./assets/adobeillustrator.svg"/>
-    <img width="48px" alt="Premiere Pro"src="./assets/adobepremierepro.svg"/>
-    <img width="48px" alt="After Effects" src="./assets/adobeaftereffects.svg"/>
-    <img width="48px" alt="Audition" src="./assets/adobeaudition.svg"/>
-    <br>
-    <h3>Web</h3>
-    <img width="48px" alt="HTML5" src="./assets/html5.svg"/>
-    <img width="48px" alt="CSS3" src="./assets/css3.svg"/>
-    <img width="48px" alt="JavaScript" src="./assets/javascript.svg"/>
-    <img width="48px" alt="Sass" src="./assets/sass.svg"/>
-    <img width="48px" alt="Bootstrap" src="./assets/bootstrap.svg"/>
-    <br>
-    <img width="48px" alt="Node.js" src="./assets/nodedotjs.svg"/>
-    <img width="48px" alt="Vite" src="./assets/vite.svg"/>
-    <img width="48px" alt="Vue.js" src="./assets/vuedotjs.svg"/>
-    <img width="48px" alt="Nuxt.js" src="./assets/nuxtdotjs.svg"/>
-    <img width="48px" alt="React" src="./assets/react.svg"/>
-    <br>
-    <p>Look and get more icons from <a href="https://simpleicons.org">Simple Icons</a></p>
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white"/>
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-f05138?logo=swift&logoColor=white"/>
 </div>
 
 ## Stats 🤔
