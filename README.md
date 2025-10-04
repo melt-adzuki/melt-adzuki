@@ -8,19 +8,15 @@
 
 ## Links 💨
 <div align="center">
-    <a target="_blank" href="https://twitter.com/melt_adzuki">
-        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@melt_adzuki&color=blue"/>
-    </a>
-    <a target="_blank" href="https://misskey.io/@melt_adzuki">
-        <img alt="Misskey.io" src="https://img.shields.io/static/v1?style=for-the-badge&logo=misskey&label=Misskey.io&message=@melt_adzuki&color=green"/>
-    </a>
+    <a target="_blank" href="https://twitter.com/melt_adzuki"><img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@melt_adzuki&color=blue"/></a>
+    <a target="_blank" href="https://misskey.io/@melt_adzuki"><img alt="Misskey.io" src="https://img.shields.io/static/v1?style=for-the-badge&logo=misskey&label=Misskey.io&message=@melt_adzuki&color=green"/></a>
 </div>
 
 ## Environment 💭
 <div align="center">
-    <img alt="Windows 11" src="https://img.shields.io/static/v1?label=OS&message=Windows 11&color=blue"/>
-    <img alt="iPhone XR" src="https://img.shields.io/static/v1?label=Phone&message=iPhone Xʀ&color=lightgray"/>
-    <img alt="LaMetric Time" src="https://img.shields.io/static/v1?label=Clock&message=LaMetric Time&color=red"/>
+    <img alt="macOS" src="https://img.shields.io/static/v1?label=OS&message=macOS&color=blue"/>
+    <img alt="iPhone 16 Pro" src="https://img.shields.io/static/v1?label=Phone&message=iPhone%2016%20Pro&color=lightgray"/>
+    <img alt="LaMetric Time" src="https://img.shields.io/static/v1?label=Clock&message=LaMetric%20Time&color=red"/>
     <img alt="M575S" src="https://img.shields.io/static/v1?label=Mouse&message=M575S&color=black"/>
 </div>
 
